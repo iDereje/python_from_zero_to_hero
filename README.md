@@ -21,7 +21,7 @@ To get started with Python Step-by-Step, follow these steps:
 
 bash
 
-git clone https://github.com/DEREJEdave/python_step_by_step.git
+git clone https://github.com/DavidDereje/python_step_by_step.git
 
     Navigate to the project: Change your directory to the cloned repository using the cd command, like this:
 
