@@ -26,7 +26,7 @@ git clone https://github.com/iDereje/python_step_by_step.git
 
 2. **Navigate to the project:** Change your directory to the cloned repository using the `cd` command, like this:
 
-```bash
+```
 cd python_step_by_step
 ```
 
